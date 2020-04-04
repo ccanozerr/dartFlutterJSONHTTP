@@ -1,0 +1,53 @@
+[
+  {
+    "car_name": "Mercedes",
+    "country" : "Germany",
+    "year" : 1850,
+    "model" : [
+      {
+        "model_name" : "CLK",
+        "price" : 15000,
+        "isFuel" : false
+      },
+      {
+        "model_name" : "Benz",
+        "price" : 30000,
+        "isFuel" : true
+      }
+    ]
+  },
+  {
+    "car_name": "Honda",
+    "country" : "Japan",
+    "year" : 1860,
+    "model" : [
+      {
+        "model_name" : "Civic",
+        "price" : 5000,
+        "isFuel" : true
+      },
+      {
+        "model_name" : "Jazz",
+        "price" : 2000,
+        "isFuel" : false
+      }
+    ]
+  },
+  {
+    "car_name": "Chevrolet",
+    "country" : "USA",
+    "year" : 1910,
+    "model" : [
+      {
+        "model_name" : "Impala",
+        "price" : 3000,
+        "isFuel" : true
+      },
+      {
+        "model_name" : "Camaro",
+        "price" : 30000,
+        "isFuel" : true
+      }
+    ]
+  }
+]
